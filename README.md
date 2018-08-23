@@ -1,4 +1,4 @@
-<p align="center"><img src="https://loady.one/bl-content/uploads/tinywatchlogo.png"></p>
+<p align="center"><img src="https://files.loady.one/img/tinywatch/tinywatch_logo.png"></p>
 
 ### What is it?
 Small digital wristwatch, powered by 8bit microcontroller, with 1.3inch 128x64 monochrome OLED display. Currently work in progress.
